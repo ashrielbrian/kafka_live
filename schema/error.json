@@ -1,0 +1,8 @@
+{
+    "order_id": "string",
+    "timestamp": "timestamp",
+    "error": {
+        "error_code": "int",
+        "message": "string"
+    }
+}

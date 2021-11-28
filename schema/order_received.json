@@ -1,0 +1,16 @@
+{
+    "user_id": "string",
+    "user_is_guest": "boolean",
+    "order_id": "string",
+    "timestamp": "timestamp",
+    "items": [
+        {
+            "id": "string",
+            "name": "string",
+            "quantity": "int",
+            "price_per_qty": "float"
+        }
+    ],
+    "address": {},
+    "billing": {}
+}

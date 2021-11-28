@@ -1,0 +1,6 @@
+{
+    "user_id": "string",
+    "order_id": "string",
+    "to_email": "boolean",
+    "timestamp": "timestamp"
+}
