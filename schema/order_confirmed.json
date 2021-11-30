@@ -1,5 +1,10 @@
 {
-    "order_id": "string",
-    "is_duplicate": "boolean",
-    "to_process": "boolean"
+    "id": "string",
+    "name": "string",
+    "timestamp": "timestamp",
+    "body": {
+        "order_id": "string",
+        "is_duplicate": "boolean",
+        "to_process": "boolean"
+    }
 }

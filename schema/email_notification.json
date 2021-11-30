@@ -1,6 +1,11 @@
 {
-    "user_id": "string",
-    "order_id": "string",
-    "to_email": "boolean",
-    "timestamp": "timestamp"
+    "id": "string",
+    "name": "string",
+    "timestamp": "timestamp",
+    "body": {
+        "user_id": "string",
+        "order_id": "string",
+        "email": "string",
+        "to_email": "boolean"
+    }
 }

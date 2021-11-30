@@ -1,7 +1,9 @@
 {
-    "order_id": "string",
+    "id": "string",
+    "name": "string",
     "timestamp": "timestamp",
-    "error": {
+    "body": {
+        "order_id": "string",
         "error_code": "int",
         "message": "string"
     }

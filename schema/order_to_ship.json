@@ -1,4 +1,10 @@
 {
-    "order_id": "string",
-    "to_ship": "boolean"
+    "id": "string",
+    "name": "string",
+    "timestamp": "timestamp",
+    "body": {
+        "user_id": "string",
+        "order_id": "string",
+        "to_ship": "boolean"
+    }
 }
