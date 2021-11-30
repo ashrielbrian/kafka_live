@@ -27,3 +27,4 @@ services:
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
     volumes:
       - ./1_kafka_basics:/usr/src/scripts
+    working_dir: /usr/src/scripts
